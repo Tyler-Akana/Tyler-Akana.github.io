@@ -7,40 +7,51 @@ title: Home
 #### **Prominent Skills**: CAD, HVAC, Pneumatics, Prototyping Design, Data Analysis, Technical Communication  
 
 <style>
+  * {
+    box-sizing: border-box; /* Ensures padding doesn't break layout */
+  }
   body {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px; /* Add padding around the content */
-    box-sizing: border-box;
+    max-width: 1200px; /* Limit the width */
+    margin: 0 auto; /* Center the page */
+    padding: 0 20px; /* Add horizontal padding */
+    line-height: 1.6; /* Improve readability */
+  }
+  header {
+    text-align: center; /* Center align header content */
+    margin: 30px 0; /* Add space above and below */
+  }
+  header img {
+    max-width: 150px; /* Logo size */
+    margin-bottom: 15px; /* Add space below the logo */
+  }
+  h1, h2, h3, h4 {
+    margin-top: 20px; /* Space above headings */
   }
   img {
-    max-width: 100%;
+    max-width: 100%; /* Prevent images from overflowing */
     height: auto;
   }
   .wide-content {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 20px; /* Space below sections */
   }
   .content-row {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20px;
+    gap: 20px; /* Adds spacing between columns */
+    margin-bottom: 30px; /* Space below row */
   }
   .content-column {
     text-align: center;
-    width: 48%;
+    flex: 1; /* Ensures equal column width */
   }
-  header {
-    text-align: center;
-    margin: 20px 0; /* Add margin above and below header */
-  }
-  header img {
-    max-width: 150px; /* Logo size */
-    margin-bottom: 10px; /* Space below the logo */
+  video {
+    display: block;
+    margin: 0 auto 20px auto; /* Center video with space below */
   }
 </style>
-
 
 ---
 
