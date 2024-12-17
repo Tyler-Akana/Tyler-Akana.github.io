@@ -47,7 +47,7 @@ title: Home
 
 ### **Field-Deployed Problems & Solutions**:
 #### Our final design was deployed in May of 2024 in a field 2hrs out from W.S.U. in Othello, WA. I stayed over a summer to continue development and provide maintenance on the design. 
-####I focused my efforts on increasing reliability of power delivery and sensor systems, and decreasing variability in temperature distribution. While I focused on those three problems I also provided maintenence and fixes for other problems such as electrical faults, and water ingress. With each problem I faced I was able to respond with a unique solution, off the shelf part, or fix in a timely matter.
+#### I focused my efforts on increasing reliability of power delivery and sensor systems, and decreasing variability in temperature distribution. While I focused on those three problems I also provided maintenence and fixes for other problems such as electrical faults, and water ingress. With each problem I faced I was able to respond with a unique solution, off the shelf part, or fix in a timely matter.
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
