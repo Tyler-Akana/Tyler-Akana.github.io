@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header style="text-align: center; margin-bottom: 20px;">
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Logo" style="max-width: 150px; border-radius: 50%;">
+    {% endif %}
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+
+    <!-- LinkedIn and Resume Links -->
+    <div style="margin-top: 10px;">
+      {% if site.linkedin %}
+        <a href="{{ site.linkedin }}" target="_blank" style="margin-right: 15px;">🔗 LinkedIn</a>
+      {% endif %}
+      {% if site.resume %}
+        <a href="{{ site.resume | relative_url }}" target="_blank">📄 Resume</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <main style="max-width: 800px; margin: 0 auto;">
+    {{ content }}
+  </main>
+
+  <footer style="text-align: center; margin-top: 20px;">
+    <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+  </footer>
+</body>
+</html>
