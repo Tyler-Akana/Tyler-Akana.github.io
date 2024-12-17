@@ -101,27 +101,24 @@ title: Home
 
 ---
 
-## **Projects**
-
-### **Kenworth-PACCAR Senior Design Project**
+## **Kenworth-PACCAR Senior Design Project**
 #### **Problem**  
-W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off.  
+W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be innacurate. 
 
 #### **Solution**  
-- Use pneumatic cylinders to lift the hood.  
-- Record forces at the strut mounting points using load cells to design a properly sized strut.  
+Utilize pneumatic cylinders to push hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution gives an expirimental value that can be used to size a spring pack for use in a better sized W990 mechanical strut.
 
 #### **System Diagrams**
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic" style="width: 100%;">
     <p><strong>Controls System:</strong> Allows control of pneumatics and processes data from load cells.</p>
-    <p>**Main components:** Futek load cells, load cell amplifiers, MPU 6050, 2ch relay, Arduino Uno, and Solenoids.</p>
+    <p><strong>Main components:<strong> Futek load cells, load cell amplifiers, MPU 6050, 2ch relay, Arduino Uno, and Solenoids.</p>
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Kenworth/Pneumatic.png" alt="Pneumatic Schematic" style="width: 100%;">
     <p><strong>Pneumatic System:</strong> Configured to control airflow to dual-action cylinders.</p>
-    <p>**Main components:** 5/3 way closed center valve, inline flow regulators, dual action cylinders, and exhaust flow restrictors.</p>  
+    <p><strong>Main components:<strong> 5/3 way closed center valve, inline flow regulators, dual action cylinders, and exhaust flow restrictors.</p>  
   </div>
 </div>
 
@@ -148,7 +145,7 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Kenworth/PneumaticSystem.jpg" alt="Pneumatic System" style="width: 100%;">
-    <p><strong>Pneumatic System:</strong>Pneumatic system before control system was assembled</p>
+    <p>Pneumatic system before control system was assembled</p>
   </div>
 </div>
 
@@ -167,6 +164,17 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
     Your browser does not support the video tag.
   </video>
   <p>Hood Retraction</p>
+</div>
+### **Load cell and MPU Data**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/Kenworth/Extension.png" alt="Extension Graph" style="width: 100%;">
+    <p>Extension force graph</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/Kenworth/Retraction.png" alt="Retraction Graph" style="width: 100%;">
+    <p>Retraction force graph</p>
+  </div>
 </div>
 ---
 
