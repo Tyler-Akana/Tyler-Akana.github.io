@@ -32,7 +32,7 @@ title: Home
 ## **Work Experience**
 
 ### **Undergraduate Researcher @ Washington State University**
-- **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth.
+- **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth, maintaining a temperature above ambient of at least 5 degrees celsius.
 - **Solution Overview**: Our solution combines off the shelf componnents such as dryer heating elements, and centrifugal duct fans along with an arduino based controls system to regulate voltage to the heaters, and thus the temperature of the box. We also explored an air curtain system to keep heated air from escaping, and reducing the cooling effect of wind but ultimately left the system unfinished due to time constraints.
 
 <div style="text-align: center; margin-bottom: 20px;">
@@ -91,7 +91,7 @@ title: Home
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/Plots-Data/Research Project/Long term data.JPG" alt="Long term data summary" style="width: 100%;">
-  <p>Results show temperature value above ambient, heat box was able to maintain at least 5^o^C above ambient average. New RTD sensors were not installed at this time meaning controls system was set to a constant voltage.</p>
+  <p>Results show temperature value above ambient, heat box was able to maintain at least 5C above ambient average. New RTD sensors were not installed at this time meaning controls system was set to a constant voltage.</p>
 </div>
 
 ---
