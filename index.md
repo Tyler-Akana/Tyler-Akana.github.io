@@ -19,7 +19,7 @@ title: Home
 - **Project**: Optimizing control boxes for climate change heatwave studies on potato growth.
 
 #### **Development Stages**:
-- **Early Prototype**
+- **Early Prototype**  
   ![Early Prototype](assets/images/heatbox_early.jpg)
 
 - **Improvements**:
@@ -28,7 +28,7 @@ title: Home
   - Air Curtain  
   - Box Structure  
 
-- **Final Design**
+- **Final Design**  
   ![Final Design](assets/images/heatbox_final.jpg)
 
 #### **Field-Deployed Problems & Solutions**:
@@ -41,20 +41,24 @@ title: Home
 
 ## **Projects**
 
-### [**Kenworth-PACCAR Senior Design Project**](projects/kenworth_w990.md)
-#### **Problem**:
-W990 Hood Struts are sized inaccurately, making it difficult for truckers to lift the hood.
+### **Kenworth-PACCAR Senior Design Project**
+#### **Problem**  
+W990 Hood Struts are sized inaccurately, making it difficult for truckers to lift the hood. 
 
-#### **Solution**:
-- Lift the hood using pneumatic cylinders.  
-- Measure forces using load cells to design proper struts.  
+#### **Proposed Solution**  
+- Use pneumatic cylinders to lift the hood.  
+- Record forces using load cells to design a properly sized strut.  
 
-#### **Design Work**:
-1. **Control System Design**
-2. **Pneumatic System Design**
+#### **System Design**
+- **Control System Design**: Designed to manage lift forces efficiently using load cells and pneumatic controls.
+- **Pneumatic System Design**: Configured to provide smooth, controlled lift operation.
 
-![Problem Illustration](assets/images/kenworth_problem.jpg)
-![Solution Prototype](assets/images/kenworth_solution.jpg)
+#### **Illustrations**
+- **Problem**:  
+  ![Problem Illustration](assets/images/kenworth_problem.jpg)
+
+- **Solution Prototype**:  
+  ![Solution Prototype](assets/images/kenworth_solution.jpg)
 
 ---
 
