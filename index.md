@@ -116,12 +116,12 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic" style="width: 100%;">
     <p><strong>Controls System:</strong> Allows control of pneumatics and processes data from load cells.</p>
-    <p>Main components: Futek load cells, load cell amplifiers, MPU 6050, 2ch relay, Arduino Uno, and Solenoids.</p>
+    <p>**Main components:** Futek load cells, load cell amplifiers, MPU 6050, 2ch relay, Arduino Uno, and Solenoids.</p>
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Kenworth/Pneumatic.png" alt="Pneumatic Schematic" style="width: 100%;">
     <p><strong>Pneumatic System:</strong> Configured to control airflow to dual-action cylinders.</p>
-    <p>Main components: 5/3 way closed center valve, inline flow regulators, dual action cylinders, and exhaust flow restrictors.</p>  
+    <p>**Main components:** 5/3 way closed center valve, inline flow regulators, dual action cylinders, and exhaust flow restrictors.</p>  
   </div>
 </div>
 
@@ -140,7 +140,17 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
   <p>Rig built to mimic position of strut mounting points for testing outside of Kenworth (sped up 4x due to lower flow rate in test rig setup)</p>
 </div>
 
-
+#### **Controls and Pneumatic systems**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/Kenworth/Controls system.jpg" alt="Controls System" style="width: 100%;">
+    <p>Controls system with housing, and strain releif</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/Kenworth/PneumaticSystem.jpg" alt="Pneumatic System" style="width: 100%;">
+    <p><strong>Pneumatic System:</strong>Pneumatic system before control system was assembled</p>
+  </div>
+</div>
 ---
 
 ## **Certifications**
