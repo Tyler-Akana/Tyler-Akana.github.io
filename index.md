@@ -38,7 +38,7 @@ title: Home
       <p><strong>Problem:</strong> High Current Draw</p>
     </div>
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_high_current_solution.jpg" alt="High Current Solution" style="width: 100%;">
+      <img src="assets/img/30amp Variac.jpg" alt="High Current Solution" style="width: 100%;">
       <p><strong>Solution:</strong> New Power Supply</p>
     </div>
   </div>
