@@ -1,6 +1,6 @@
 # Portfolio
 
-#### Skills: CAD, HVAC, Pneumatics, Prototyping Design, GD&T
+#### Prominent Skills: CAD, HVAC, Pneumatics, Prototyping Design, GD&T, Technical Communication
 
 ## Education
 -B.S., Mehcanical Engineering | Washington State University (_December 2024_)
