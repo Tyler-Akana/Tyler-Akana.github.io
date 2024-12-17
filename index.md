@@ -125,7 +125,7 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 
 ### **Cylinder Components**
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 80%;">
+  <img src="assets/img/Kenworth/ActuatorAssembly.JPG" alt="ActuatorAssembly" style="width: 80%;">
   <p>Components adapt cylinder and load cell to eachother, and strut mounts.</p>
 </div>
 
