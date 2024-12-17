@@ -32,17 +32,17 @@ title: Home
 
 #### **Field-Deployed Problems & Solutions**:
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+  <div style="text-align: center; width: 30%;">
     <img src="assets/img/field_high_current.jpg" alt="High Current Draw" style="width: 100%;">
     <p><strong>Problem:</strong> High Current Draw</p>
     <p><strong>Solution:</strong> New Power Supply</p>
   </div>
-  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+  <div style="text-align: center; width: 30%;">
     <img src="assets/img/field_tcsensor.jpg" alt="Inaccurate TC Sensors" style="width: 100%;">
     <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
     <p><strong>Solution:</strong> RTD Sensors</p>
   </div>
-  <div style="text-align: center; width: 45%;">
+  <div style="text-align: center; width: 30%;">
     <img src="assets/img/field_temp_distribution.jpg" alt="Uneven Temperature Distribution" style="width: 100%;">
     <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
     <p><strong>Solution:</strong> Redesigned PVC System</p>
@@ -65,11 +65,11 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/controls-schematic.jpg" alt="Controls Schematic" style="width: 100%;">
-    <p>Controls System</p>
+    <p><strong>Controls System:</strong> Allows control of pneumatics and processes data from load cells.</p>
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/pneumatic-schematic.jpg" alt="Pneumatic Schematic" style="width: 100%;">
-    <p>Pneumatic System</p>
+    <p><strong>Pneumatic System:</strong> Configured to control airflow to dual-action cylinders.</p>
   </div>
 </div>
 
@@ -81,3 +81,4 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 ---
 
 [View My GitHub Projects](https://github.com/yourusername)
+
