@@ -34,7 +34,7 @@ title: Home
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/Variac Solders.jpg" alt="High Current Problem" style="width: 100%;">
+      <img src="assets/img/Variac Solder joints.jpg" alt="High Current Problem" style="width: 100%;">
       <p><strong>Problem:</strong> High Current Draw</p>
     </div>
     <div style="text-align: center; width: 45%;">
@@ -54,7 +54,7 @@ title: Home
   </div>
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_temp_distribution_problem.jpg" alt="Temp Distribution Problem" style="width: 100%;">
+      <img src="assets/img/wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
       <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
     </div>
     <div style="text-align: center; width: 45%;">
