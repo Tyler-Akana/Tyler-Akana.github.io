@@ -151,6 +151,23 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
     <p><strong>Pneumatic System:</strong>Pneumatic system before control system was assembled</p>
   </div>
 </div>
+
+#### **Final Validation**
+<div style="text-align: center; margin-bottom: 20px;">
+  <video width="80%" controls>
+    <source src="assets/img/Kenworth/Extension.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>Hood Extension</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <video width="80%" controls>
+    <source src="assets/img/Kenworth/Retraction.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>Hood Retraction</p>
+</div>
 ---
 
 ## **Certifications**
