@@ -114,11 +114,11 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 #### **System Diagrams**
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
-    <img src="assets/img/controls-schematic.jpg" alt="Controls Schematic" style="width: 100%;">
+    <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic" style="width: 100%;">
     <p><strong>Controls System:</strong> Allows control of pneumatics and processes data from load cells.</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="assets/img/pneumatic-schematic.jpg" alt="Pneumatic Schematic" style="width: 100%;">
+    <img src="assets/img/Kenworth/Pneumatic.png" alt="Pneumatic Schematic" style="width: 100%;">
     <p><strong>Pneumatic System:</strong> Configured to control airflow to dual-action cylinders.</p>
   </div>
 </div>
