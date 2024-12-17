@@ -35,31 +35,31 @@ title: Home
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/Variac Solder joints.jpg" alt="High Current Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> High Current Draw</p>
+      <p><strong>Problem:</strong> High current draw heats up solder joints, melting and disconnecting internal wiring or blowing 20A fuse.</p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/30amp Variac.jpg" alt="High Current Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> New Power Supply</p>
+      <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw </p>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
+      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observec that TC polarity was reversed, and heat applied to the breakout board would cause a temperature increase, adding to the innacuracy. </p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> RTD Sensors</p>
+      <p><strong>Solution:</strong> RTD Sensors preformed more accuratley than TC sensors within our temperature range. Newly accurate system will now allow for smother control of voltage in control algorithm. </p>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/Wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
+      <p><strong>Problem:</strong> Uneven temperature distrobution was observed in testing. Wilting of foilage directly in front of the inlet shows visualy the uneven distrobution. </p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/PVC System.jpg" alt="Temp Distribution Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> Redesigned PVC System</p>
+      <p><strong>Solution:</strong> Newly develuped temperature distrobution system directs main flow through PVC piping and out several holes across the length of piping. </p>
     </div>
   </div>
 </div>
