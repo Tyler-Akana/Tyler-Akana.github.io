@@ -55,11 +55,11 @@ title: Home
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/Wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Uneven temperature distrobution was observed in testing. Wilting of foilage directly in front of the inlet shows visualy the uneven distrobution. </p>
+      <p><strong>Problem:</strong> Uneven temperature distrobution was observed in testing. Wilting of foilage directly in front of the inlet shows this visualy. </p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/PVC System.jpg" alt="Temp Distribution Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> Newly develuped temperature distrobution system directs main flow through PVC piping and out several holes across the length of piping. </p>
+      <p><strong>Solution:</strong> Newly developed temperature distrobution system directs main flow through PVC piping and out several holes across the length of piping. </p>
     </div>
   </div>
 </div>
