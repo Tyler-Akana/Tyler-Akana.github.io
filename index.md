@@ -109,9 +109,7 @@ title: Home
 
 ---
 
-## **Projects**
-
-### **Kenworth-PACCAR Senior Design Project**
+## **Kenworth-PACCAR Senior Design Project**
 #### **Problem**  
 W990 Hood Struts are undersized, making initial hood lift-off difficult.
 
