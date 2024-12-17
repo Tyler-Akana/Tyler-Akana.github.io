@@ -13,68 +13,83 @@
     }
 
     html, body {
-      height: 100%; /* Full height */
+      height: 100%; /* Full-page height */
       margin: 0;
-      display: flex; /* Flexbox for layout */
+      display: flex;
+      overflow: hidden; /* Remove scroll bars entirely */
     }
 
-    /* Sidebar on the far left */
+    /* Sidebar Styling */
     .sidebar {
-      width: 250px; /* Fixed sidebar width */
-      background-color: #ffffff;
-      border-right: 1px solid #ddd;
+      width: 250px; /* Fixed width */
+      background-color: #ffffff; /* Pure white background */
       padding: 20px;
-      position: fixed; /* Stick sidebar to the far left */
+      text-align: center;
+      border-right: 1px solid #ddd;
+      position: fixed; /* Always sticks to the far left */
       top: 0;
       bottom: 0;
-      overflow-y: auto; /* Allow scrolling for overflow content */
-      text-align: center;
+      overflow: hidden; /* Prevent scroll bars */
     }
 
     .sidebar img {
-      max-width: 150px; /* Logo size */
+      max-width: 150px;
       margin-bottom: 20px;
-      border-radius: 50%;
+      border-radius: 50%; /* Rounded logo */
     }
 
     .sidebar a {
       display: block;
       margin: 15px 0;
       color: #333;
-      font-weight: bold;
       text-decoration: none;
+      font-weight: bold;
     }
 
     .sidebar a:hover {
       text-decoration: underline;
     }
 
-    /* Main Content */
+    /* Main Content Area */
     .content {
-      margin-left: 250px; /* Leave space for the sidebar */
+      margin-left: 250px; /* Start content to the right of the sidebar */
       padding: 40px;
-      flex: 1; /* Use the remaining space */
-      overflow-y: auto; /* Scrollable content if needed */
+      flex-grow: 1; /* Dynamically use remaining space */
+      overflow-y: auto; /* Scroll only the main content if needed */
+      line-height: 1.6;
+      background-color: #f9f9f9; /* Light gray background for contrast */
     }
 
-    /* Responsive Sidebar */
+    /* Adjustments for Extra-Large Screens */
+    @media (min-width: 1600px) {
+      .sidebar {
+        width: 300px; /* Increase sidebar width for very large screens */
+      }
+      .content {
+        margin-left: 300px;
+      }
+    }
+
+    /* Responsive Adjustments for Smaller Screens */
     @media (max-width: 768px) {
       .sidebar {
         width: 200px;
+        padding: 10px;
       }
       .content {
         margin-left: 200px;
+        padding: 20px;
       }
     }
 
     @media (max-width: 480px) {
       .sidebar {
-        width: 150px; /* Shrink sidebar further for smaller screens */
-        padding: 10px;
+        width: 150px;
+        padding: 5px;
       }
       .content {
         margin-left: 150px;
-        padding: 20px;
+        padding: 10px;
       }
     }
   </style>
