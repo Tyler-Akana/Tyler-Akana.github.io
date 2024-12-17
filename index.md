@@ -31,21 +31,36 @@ title: Home
 </div>
 
 #### **Field-Deployed Problems & Solutions**:
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="text-align: center; width: 30%;">
-    <img src="assets/img/field_high_current.jpg" alt="High Current Draw" style="width: 100%;">
-    <p><strong>Problem:</strong> High Current Draw</p>
-    <p><strong>Solution:</strong> New Power Supply</p>
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_high_current_problem.jpg" alt="High Current Problem" style="width: 100%;">
+      <p><strong>Problem:</strong> High Current Draw</p>
+    </div>
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_high_current_solution.jpg" alt="High Current Solution" style="width: 100%;">
+      <p><strong>Solution:</strong> New Power Supply</p>
+    </div>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="assets/img/field_tcsensor.jpg" alt="Inaccurate TC Sensors" style="width: 100%;">
-    <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
-    <p><strong>Solution:</strong> RTD Sensors</p>
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_tcsensor_problem.jpg" alt="TC Sensors Problem" style="width: 100%;">
+      <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
+    </div>
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_tcsensor_solution.jpg" alt="TC Sensors Solution" style="width: 100%;">
+      <p><strong>Solution:</strong> RTD Sensors</p>
+    </div>
   </div>
-  <div style="text-align: center; width: 30%;">
-    <img src="assets/img/field_temp_distribution.jpg" alt="Uneven Temperature Distribution" style="width: 100%;">
-    <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
-    <p><strong>Solution:</strong> Redesigned PVC System</p>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_temp_distribution_problem.jpg" alt="Temp Distribution Problem" style="width: 100%;">
+      <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
+    </div>
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/field_temp_distribution_solution.jpg" alt="Temp Distribution Solution" style="width: 100%;">
+      <p><strong>Solution:</strong> Redesigned PVC System</p>
+    </div>
   </div>
 </div>
 
@@ -81,4 +96,5 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 ---
 
 [View My GitHub Projects](https://github.com/yourusername)
+
 
