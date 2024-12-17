@@ -7,89 +7,29 @@ title: Home
 #### **Prominent Skills**: CAD, HVAC, Pneumatics, Prototyping Design, Data Analysis, Technical Communication  
 
 <style>
-  * {
-    box-sizing: border-box; /* Consistent sizing */
-  }
   body {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 20px; /* Horizontal padding */
-    line-height: 1.6; /* Improve readability */
   }
-  header {
-    text-align: center;
-    margin: 40px 0 30px 0; /* Space above and below header */
-  }
-  header img {
-    max-width: 150px;
-    margin-bottom: 15px; /* Add space below the logo */
-  }
-  .content-section {
-    clear: both; /* Ensure content starts below the header */
+  img {
+    max-width: 100%;
+    height: auto;
   }
   .wide-content {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 20px;
   }
   .content-row {
     display: flex;
     justify-content: space-between;
-    gap: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   .content-column {
     text-align: center;
-    flex: 1;
-  }
-  video {
-    display: block;
-    margin: 0 auto 20px auto;
+    width: 48%;
   }
 </style>
-
-<header>
-  <img src="assets/img/Headshot.jpg" alt="Logo">
-  <h1>{{ site.title }}</h1>
-  <p>{{ site.description }}</p>
-  <div>
-    <a href="{{ site.linkedin }}" target="_blank" style="margin-right: 10px;">🔗 LinkedIn</a>
-    <a href="{{ site.resume }}" target="_blank">📄 Resume</a>
-  </div>
-</header>
-
-<div class="content-section">
-  ## **Education**
-  ### **BS, Mechanical Engineering** | *Washington State University* (December 2024)
-
-  ---
-
-  ## **Work Experience**
-
-  ### **Undergraduate Researcher @ Washington State University**
-  #### **Project Goal**: 
-    To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
-
-  #### **Solution Overview**:
-    Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
-
-  <div class="wide-content">
-    <div style="text-align: center; margin-bottom: 20px;">
-      <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype">
-      <p>Early Prototype</p>
-    </div>
-    <div style="text-align: center; margin-bottom: 20px;">
-      <img src="assets/img/Controls Box.jpg" alt="Controls System">
-      <p>Controls System (excluding servo for variac voltage control)</p>
-    </div>
-    <div style="text-align: center; margin-bottom: 20px;">
-      <img src="assets/img/early deployment.jpg" alt="Final Design">
-      <p>Final Design</p>
-    </div>
-  </div>
-</div>
-
 
 ---
 
