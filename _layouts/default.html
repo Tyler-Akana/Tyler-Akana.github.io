@@ -15,14 +15,17 @@
       display: flex;
       min-height: 100vh; /* Full page height */
     }
-    /* Left Sidebar (Header) */
+    /* Sticky Sidebar */
     .sidebar {
       width: 250px;
-      background-color: #f8f8f8; /* Light gray background */
+      background-color: #FFFFFF; /* White background */
       padding: 20px;
       text-align: center;
       border-right: 1px solid #ddd; /* Divider line */
-      flex-shrink: 0; /* Prevent sidebar shrinking */
+      position: sticky;
+      top: 0; /* Sticks to the top of the viewport */
+      height: fit-content; /* Fits the sidebar content */
+      flex-shrink: 0;
     }
     .sidebar img {
       max-width: 150px;
@@ -51,7 +54,7 @@
   </style>
 </head>
 <body>
-  <!-- Left Sidebar -->
+  <!-- Sticky Sidebar -->
   <aside class="sidebar">
     {% if site.logo %}
       <img src="{{ site.logo | relative_url }}" alt="Logo">
