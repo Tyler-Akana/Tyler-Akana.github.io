@@ -54,7 +54,7 @@ title: Home
   </div>
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
+      <img src="assets/img/Wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
       <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
     </div>
     <div style="text-align: center; width: 45%;">
