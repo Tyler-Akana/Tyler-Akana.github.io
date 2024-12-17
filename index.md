@@ -103,10 +103,10 @@ title: Home
 
 ## **Kenworth-PACCAR Senior Design Project**
 #### **Problem**  
-W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be innacurate. 
+-W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be innacurate. 
 
 #### **Solution**  
-Utilize pneumatic cylinders to push hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution gives an expirimental value that can be used to size a spring pack for use in a better sized W990 mechanical strut.
+-Utilize pneumatic cylinders to push hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution gives an expirimental value that can be used to size a spring pack for use in a better sized W990 mechanical strut.
 
 #### **System Diagrams**
 <div style="display: flex; justify-content: space-between;">
