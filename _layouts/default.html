@@ -10,55 +10,72 @@
       box-sizing: border-box;
     }
     body {
-      max-width: 1200px;
-      margin: 0 auto;
+      margin: 0;
+      font-family: Arial, sans-serif;
+      display: flex;
+      min-height: 100vh; /* Full page height */
+    }
+    /* Left Sidebar (Header) */
+    .sidebar {
+      width: 250px;
+      background-color: #f8f8f8; /* Light gray background */
       padding: 20px;
-      line-height: 1.6;
-    }
-    header {
       text-align: center;
-      margin-bottom: 30px; /* Adds spacing below the header */
+      border-right: 1px solid #ddd; /* Divider line */
+      flex-shrink: 0; /* Prevent sidebar shrinking */
     }
-    header img {
+    .sidebar img {
       max-width: 150px;
+      border-radius: 50%; /* Rounded logo */
       margin-bottom: 15px;
     }
-    main {
-      clear: both; /* Ensure content does not overlap the header */
+    .sidebar a {
+      display: block;
+      margin: 10px 0;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    /* Main Content */
+    .content {
+      flex-grow: 1; /* Takes up remaining space */
+      padding: 40px;
+      line-height: 1.6;
     }
     footer {
       text-align: center;
-      margin-top: 30px;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #555;
     }
   </style>
 </head>
 <body>
-  <!-- Site Header -->
-  <header>
+  <!-- Left Sidebar -->
+  <aside class="sidebar">
     {% if site.logo %}
       <img src="{{ site.logo | relative_url }}" alt="Logo">
     {% endif %}
-    <h1>{{ site.title }}</h1>
+    <h2>{{ site.title }}</h2>
     <p>{{ site.description }}</p>
-    <div>
-      {% if site.linkedin %}
-        <a href="{{ site.linkedin }}" target="_blank" style="margin-right: 10px;">🔗 LinkedIn</a>
-      {% endif %}
-      {% if site.resume %}
-        <a href="{{ site.resume }}" target="_blank">📄 Resume</a>
-      {% endif %}
-    </div>
-  </header>
+    {% if site.linkedin %}
+      <a href="{{ site.linkedin }}" target="_blank">🔗 LinkedIn</a>
+    {% endif %}
+    {% if site.resume %}
+      <a href="{{ site.resume }}" target="_blank">📄 Resume</a>
+    {% endif %}
+  </aside>
 
   <!-- Main Content -->
-  <main>
+  <main class="content">
     {{ content }}
   </main>
 
-  <!-- Site Footer -->
+  <!-- Footer -->
   <footer>
     <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
   </footer>
 </body>
 </html>
+
 
