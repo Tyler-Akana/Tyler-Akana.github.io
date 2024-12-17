@@ -91,7 +91,7 @@ title: Home
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/Plots-Data/Research Project/Long term data.JPG" alt="Long term data summary" style="width: 100%;">
-  <p>Results show temperature value above ambient, heat box was able to maintain at least 5^oC above ambient average. New RTD sensors were not installed at this time meaning controls system was set to a constant voltage.</p>
+  <p>Results show temperature value above ambient, heat box was able to maintain at least 5^o^C above ambient average. New RTD sensors were not installed at this time meaning controls system was set to a constant voltage.</p>
 </div>
 
 ---
