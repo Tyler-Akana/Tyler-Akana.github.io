@@ -83,6 +83,21 @@ title: Home
 </div>
 
 ---
+### Research Outcomes:
+
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/Variac Solder joints.jpg" alt="High Current Problem" style="width: 100%;">
+      <p><strong>Problem:</strong> High current draw heats up solder joints, melting and disconnecting internal wiring or blowing 20A fuse.</p>
+    </div>
+    <div style="text-align: center; width: 45%;">
+      <img src="assets/img/30amp Variac.jpg" alt="High Current Solution" style="width: 100%;">
+      <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw.</p>
+    </div>
+  </div>
+
+---
 
 ## **Projects**
 
