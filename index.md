@@ -4,7 +4,7 @@ title: Home
 ---
 
 # **Portfolio**
-#### **Prominent Skills**: CAD, HVAC, Pneumatics, Prototyping Design, GD&T, Technical Communication  
+#### **Prominent Skills**: CAD, HVAC, Pneumatics, Prototyping Design, Data Analysis, Technical Communication  
 
 ---
 
@@ -16,8 +16,8 @@ title: Home
 ## **Work Experience**
 
 ### **Undergraduate Researcher @ Washington State University**
-- **Project**: Designing control boxes for climate change heatwave studies on potato growth.
-
+- **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth.
+- **Solution Overview**: We combined conventional heating system components such as dryer heating elements, centrifugal duct fans, and accompanying ductwork together with an arduino based controls system regulating voltage to the heating elements. 
 #### **Development Stages**:
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
@@ -31,6 +31,7 @@ title: Home
 </div>
 
 #### **Field-Deployed Problems & Solutions**:
+### After deploying the final design in feild, I stayed over a summer to continue development and provide maintenence on the product.
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
@@ -45,7 +46,7 @@ title: Home
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observed that TC polarity was reversed, and heat applied to the breakout board would cause a temperature increase, adding to the innacuracy. </p>
+      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observed that polarity of certain TC's were reversed, and heat applied to the breakout board would cause a temperature increase, adding to innacuracy. </p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution" style="width: 100%;">
