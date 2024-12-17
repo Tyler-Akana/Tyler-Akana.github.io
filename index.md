@@ -41,8 +41,11 @@ title: Home
 ## **Work Experience**
 
 ### **Undergraduate Researcher @ Washington State University**
-- **Project Goal**: To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
-- **Solution Overview**: Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
+  ####**Project Goal**: 
+  To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
+  
+  ####**Solution Overview**:
+  Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
 
 <div class="wide-content">
   <div style="text-align: center; margin-bottom: 20px;">
@@ -159,7 +162,7 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
   <p>Hood Retraction</p>
 </div>
 
-### **Load Cell and MPU Data**
+### **Data From Final Tests**
 <div class="content-row">
   <div class="content-column">
     <img src="assets/img/Kenworth/Extension.png" alt="Extension Graph">
