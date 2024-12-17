@@ -17,21 +17,20 @@ title: Home
 
 ### **Undergraduate Researcher @ Washington State University**
 - **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth.
-- **Solution Overview**: We combined conventional heating system components such as dryer heating elements, centrifugal duct fans, and accompanying ductwork together with an arduino based controls system regulating voltage to the heating elements. 
+- **Solution Overview**: Our solution combines off the shelf componnents such as dryer heating elements, and centrifugal duct fans along with an arduino based controls system to regulate voltage to the heaters, and thus the temperature of the box. 
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; width: 45%;">
-    <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 100%;">
-    <p>Early Prototype</p>
-  </div>
-  <div style="text-align: center; width: 45%;">
-    <img src="assets/img/early deployment.jpg" alt="Final Design" style="width: 100%;">
-    <p>Final Design</p>
-  </div>
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 80%;">
+  <p>Early Prototype</p>
 </div>
 
-#### **Field-Deployed Problems & Solutions**:
-### After deploying the final design in feild, I stayed over a summer to continue development and provide maintenence on the product.
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/img/early deployment.jpg" alt="Final Design" style="width: 80%;">
+  <p>Final Design</p>
+</div>
+
+### **Field-Deployed Problems & Solutions**:
+#### After deploying the final design in field, I stayed over a summer to continue development and provide maintenance on the design.
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
@@ -40,27 +39,27 @@ title: Home
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/30amp Variac.jpg" alt="High Current Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw </p>
+      <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw.</p>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observed that polarity of certain TC's were reversed, and heat applied to the breakout board would cause a temperature increase, adding to innacuracy. </p>
+      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C), polarity issues and heat on the breakout board caused inaccuracies.</p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> RTD Sensors preformed more accurately than TC sensors within our temperature range. Newly accurate system will now allow for smother control of voltage in control algorithm. </p>
+      <p><strong>Solution:</strong> RTD Sensors performed more accurately than TC sensors within our temperature range, enabling smoother voltage control in the algorithm.</p>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/Wilting picture.jpg" alt="Temp Distribution Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Uneven temperature distrobution was observed in testing. Wilting of foilage directly in front of the inlet shows this visualy. </p>
+      <p><strong>Problem:</strong> Uneven temperature distribution observed in testing. Wilting foliage directly in front of the inlet visually indicated this issue.</p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/PVC System.jpg" alt="Temp Distribution Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> Newly developed temperature distrobution system directs main flow through PVC piping and out several holes across the length of piping. </p>
+      <p><strong>Solution:</strong> A redesigned temperature distribution system directs airflow through PVC pipes, ensuring even temperature across the setup.</p>
     </div>
   </div>
 </div>
@@ -97,5 +96,6 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
 ---
 
 [View My GitHub Projects](https://github.com/yourusername)
+
 
 
