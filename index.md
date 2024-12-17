@@ -41,10 +41,10 @@ title: Home
 ## **Work Experience**
 
 ### **Undergraduate Researcher @ Washington State University**
-  #### **Project Goal**: 
+#### **Project Goal**: 
   To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
   
-  #### **Solution Overview**:
+#### **Solution Overview**:
   Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
 
 <div class="wide-content">
