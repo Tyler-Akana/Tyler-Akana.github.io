@@ -1,81 +1,86 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
     * {
-      margin: 0;
-      padding: 0;
       box-sizing: border-box;
     }
-
-    html, body {
-      height: 100%;
+    body {
       margin: 0;
+      font-family: Arial, sans-serif;
       display: flex;
-      overflow: hidden; /* Remove unnecessary scrollbars */
+      min-height: 100vh; /* Full page height */
     }
-
-    /* Sidebar Styling */
+    /* Sticky Sidebar */
     .sidebar {
-      width: 250px; /* Fixed width for the sidebar */
-      background-color: #ffffff; /* White sidebar */
+      width: 250px;
+      background-color: #f8f8f8; /* Light gray background */
       padding: 20px;
       text-align: center;
-      border-right: 1px solid #ddd;
-      position: fixed; /* Stick sidebar to the far left */
-      top: 0;
-      bottom: 0;
+      border-right: 1px solid #ddd; /* Divider line */
+      position: sticky;
+      top: 0; /* Sticks to the top of the viewport */
+      height: fit-content; /* Fits the sidebar content */
+      flex-shrink: 0;
     }
-
     .sidebar img {
       max-width: 150px;
-      margin-bottom: 20px;
-      border-radius: 50%;
+      border-radius: 50%; /* Rounded logo */
+      margin-bottom: 15px;
     }
-
     .sidebar a {
       display: block;
-      margin: 15px 0;
-      color: #333;
+      margin: 10px 0;
       text-decoration: none;
+      color: #333;
       font-weight: bold;
     }
-
-    .sidebar a:hover {
-      text-decoration: underline;
-    }
-
-    /* Main Content Area */
+    /* Main Content */
     .content {
-      margin-left: 250px; /* Space for sidebar */
+      flex-grow: 1; /* Takes up remaining space */
       padding: 40px;
-      width: 100%; /* Full width for large screens */
-      max-width: 1600px; /* Increased maximum width of the content */
-      margin-right: auto; /* Center content dynamically */
-      margin-left: 250px; /* Keep space for sidebar */
-      background-color: #ffffff; /* Light gray background for contrast */
-      overflow-y: auto; /* Allow content scrolling */
       line-height: 1.6;
     }
-
-    /* Responsive Adjustments */
-    @media (max-width: 768px) {
-      .sidebar {
-        width: 200px;
-      }
-      .content {
-        margin-left: 200px;
-      }
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #555;
     }
+  </style>
+</head>
+<body>
+  <!-- Sticky Sidebar -->
+  <aside class="sidebar">
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="Logo">
+    {% endif %}
+    <h2>{{ site.title }}</h2>
+    <p>{{ site.description }}</p>
+    {% if site.linkedin %}
+      <a href="{{ site.linkedin }}" target="_blank">🔗 LinkedIn</a>
+    {% endif %}
+    {% if site.resume %}
+      <a href="{{ site.resume }}" target="_blank">📄 Resume</a>
+    {% endif %}
+  </aside>
 
-    @media (max-width: 480px) {
-      .sidebar {
-        width: 150px;
-        padding: 10px;
-      }
-      .content {
-        margin-left: 150px;
-        padding: 20px;
-      }
-    }
-</style>
+  <!-- Main Content -->
+  <main class="content">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+  </footer>
+</body>
+</html>
+
 
 
 
