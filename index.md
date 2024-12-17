@@ -18,7 +18,7 @@ title: Home
 ### **Undergraduate Researcher @ Washington State University**
 - **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth.
 - **Solution Overview**: We combined conventional heating system components such as dryer heating elements, centrifugal duct fans, and accompanying ductwork together with an arduino based controls system regulating voltage to the heating elements. 
-### **Development Stages**:
+
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
     <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 100%;">
