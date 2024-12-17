@@ -9,33 +9,45 @@ title: Home
 ---
 
 ## **Education**
-- **B.S., Mechanical Engineering** | *Washington State University* (Dec 2024)
+- **BS, Mechanical Engineering** | *Washington State University* (December 2024)
 
 ---
 
 ## **Work Experience**
 
 ### **Undergraduate Researcher @ Washington State University**
-- **Project**: Optimizing control boxes for climate change heatwave studies on potato growth.
+- **Project**: Designing control boxes for climate change heatwave studies on potato growth.
 
 #### **Development Stages**:
-- **Early Prototype**  
-  ![Early Prototype](assets/images/heatbox_early.jpg)
-
-- **Improvements**:
-  - Heaters  
-  - Main Airflow  
-  - Air Curtain  
-  - Box Structure  
-
-- **Final Design**  
-  ![Final Design](assets/images/heatbox_final.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/heatbox_early.jpg" alt="Early Prototype" style="width: 100%;">
+    <p>Early Prototype</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/heatbox_final.jpg" alt="Final Design" style="width: 100%;">
+    <p>Final Design</p>
+  </div>
+</div>
 
 #### **Field-Deployed Problems & Solutions**:
-- **Problem**: High Current Draw → **Solution**: New Power Supply  
-- **Problem**: Inaccurate TC Sensors → **Solution**: RTD Sensors  
-- **Problem**: Uneven Temperature Distribution → **Solution**: Redesigned PVC System  
-![Field-Deployed Setup](assets/images/field_deployed.jpg)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+    <img src="assets/img/field_high_current.jpg" alt="High Current Draw" style="width: 100%;">
+    <p><strong>Problem:</strong> High Current Draw</p>
+    <p><strong>Solution:</strong> New Power Supply</p>
+  </div>
+  <div style="text-align: center; width: 45%; margin-bottom: 20px;">
+    <img src="assets/img/field_tcsensor.jpg" alt="Inaccurate TC Sensors" style="width: 100%;">
+    <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
+    <p><strong>Solution:</strong> RTD Sensors</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/field_temp_distribution.jpg" alt="Uneven Temperature Distribution" style="width: 100%;">
+    <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
+    <p><strong>Solution:</strong> Redesigned PVC System</p>
+  </div>
+</div>
 
 ---
 
@@ -43,22 +55,23 @@ title: Home
 
 ### **Kenworth-PACCAR Senior Design Project**
 #### **Problem**  
-W990 Hood Struts are sized inaccurately, making it difficult for truckers to lift the hood. 
+W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off.  
 
-#### **Proposed Solution**  
+#### **Solution**  
 - Use pneumatic cylinders to lift the hood.  
-- Record forces using load cells to design a properly sized strut.  
+- Record forces at the strut mounting points using load cells to design a properly sized strut.  
 
-#### **System Design**
-- **Control System Design**: Designed to manage lift forces efficiently using load cells and pneumatic controls.
-- **Pneumatic System Design**: Configured to provide smooth, controlled lift operation.
-
-#### **Illustrations**
-- **Problem**:  
-  ![Problem Illustration](assets/images/kenworth_problem.jpg)
-
-- **Solution Prototype**:  
-  ![Solution Prototype](assets/images/kenworth_solution.jpg)
+#### **System Diagrams**
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/controls-schematic.jpg" alt="Controls Schematic" style="width: 100%;">
+    <p>Controls System</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/img/pneumatic-schematic.jpg" alt="Pneumatic Schematic" style="width: 100%;">
+    <p>Pneumatic System</p>
+  </div>
+</div>
 
 ---
 
