@@ -17,7 +17,7 @@ title: Home
 
 ### **Undergraduate Researcher @ Washington State University**
 - **Project Goal**: To design a set of temperature controlled open lid boxes for study of climate change induced heatwaves on potato growth.
-- **Solution Overview**: Our solution combines off the shelf componnents such as dryer heating elements, and centrifugal duct fans along with an arduino based controls system to regulate voltage to the heaters, and thus the temperature of the box. 
+- **Solution Overview**: Our solution combines off the shelf componnents such as dryer heating elements, and centrifugal duct fans along with an arduino based controls system to regulate voltage to the heaters, and thus the temperature of the box. We also explored an air curtain system to keep heated air from escaping, and reducing the cooling effect of wind but ultimately left the system unfinished due to time constraints.
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 80%;">
@@ -30,7 +30,7 @@ title: Home
 </div>
 
 ### **Field-Deployed Problems & Solutions**:
-#### After deploying the final design in field, I stayed over a summer to continue development and provide maintenance on the design.
+#### Our final design was deployed in May of 2024 in a field 2hrs out from W.S.U. in Othello, WA, I stayed over a summer to continue development and provide maintenance on the design. I focused my efforts on increasing reliability of power delivery and sensor systems, and decreasing variability in temperature distribution. While I focused on those three problems I also provided maintenence and fixes for many other problems such as electrical faults, and water ingress. With each problem I faced I was able to respond with a unique solution, new product, or fix in a timely matter.
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
