@@ -87,12 +87,12 @@ title: Home
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/Variac Solder joints.jpg" alt="High Current Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> High current draw heats up solder joints, melting and disconnecting internal wiring or blowing 20A fuse.</p>
+      <img src="assets/Plots-Data/Research Project/long term plot.jpg" alt="High Current Problem" style="width: 100%;">
+      <p><strong>Problem:</strong> Heat box was installed and turned on 70 days after planting, and remained on until day 87. </p>
     </div>
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/30amp Variac.jpg" alt="High Current Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw.</p>
+      <img src="assets/Plots-Data/Research Project/Long term data.jpg" alt="High Current Solution" style="width: 100%;">
+      <p><strong>Solution:</strong> Results show temperature value above ambient, heat box was able to maintain at least 5^oC above ambient average. New RTD sensors were not installed at this time meaning controls system was set to a constant voltage.</p>
     </div>
   </div>
 </div>
