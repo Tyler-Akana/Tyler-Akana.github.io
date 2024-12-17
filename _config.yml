@@ -2,6 +2,6 @@ title: "Tyler Akana"
 description: "Mechanical Engineering Portfolio | Projects and Experience"
 theme: jekyll-theme-minimal
 show_downloads: false
-logo: /assets/img/Headshot.png  # Optional Logo
+logo: /assets/img/Headshot.jpg  # Optional Logo
 github:
   is_project_page: true
