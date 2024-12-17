@@ -10,6 +10,8 @@ title: Home
   body {
     max-width: 1200px;
     margin: 0 auto;
+    padding: 0 20px; /* Add padding around the content */
+    box-sizing: border-box;
   }
   img {
     max-width: 100%;
@@ -29,7 +31,16 @@ title: Home
     text-align: center;
     width: 48%;
   }
+  header {
+    text-align: center;
+    margin: 20px 0; /* Add margin above and below header */
+  }
+  header img {
+    max-width: 150px; /* Logo size */
+    margin-bottom: 10px; /* Space below the logo */
+  }
 </style>
+
 
 ---
 
