@@ -103,10 +103,10 @@ title: Home
 
 ## **Kenworth-PACCAR Senior Design Project**
 #### **Problem**  
--W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be innacurate. 
+W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be innacurate. 
 
 #### **Solution**  
--Utilize pneumatic cylinders to push hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution gives an expirimental value that can be used to size a spring pack for use in a better sized W990 mechanical strut.
+Utilize pneumatic cylinders to push hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution gives an expirimental value that can be used to size a spring pack for use in a better sized W990 mechanical strut.
 
 #### **System Diagrams**
 <div style="display: flex; justify-content: space-between;">
@@ -157,7 +157,6 @@ title: Home
   </video>
   <p>Hood Extension</p>
 </div>
-
 <div style="text-align: center; margin-bottom: 20px;">
   <video width="80%" controls>
     <source src="assets/img/Kenworth/Retraction.mp4" type="video/mp4">
@@ -165,6 +164,7 @@ title: Home
   </video>
   <p>Hood Retraction</p>
 </div>
+
 ### **Load cell and MPU Data**
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
