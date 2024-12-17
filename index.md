@@ -21,11 +21,11 @@ title: Home
 #### **Development Stages**:
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center; width: 45%;">
-    <img src="assets/img/heatbox_early.jpg" alt="Early Prototype" style="width: 100%;">
+    <img src="assets/img/Early Prototype Box 2.jpg" alt="Early Prototype" style="width: 100%;">
     <p>Early Prototype</p>
   </div>
   <div style="text-align: center; width: 45%;">
-    <img src="assets/img/heatbox_final.jpg" alt="Final Design" style="width: 100%;">
+    <img src="assets/img/early deployment.jpg" alt="Final Design" style="width: 100%;">
     <p>Final Design</p>
   </div>
 </div>
@@ -34,7 +34,7 @@ title: Home
 <div style="display: flex; flex-direction: column;">
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_high_current_problem.jpg" alt="High Current Problem" style="width: 100%;">
+      <img src="assets/img/Variac Solders.jpg" alt="High Current Problem" style="width: 100%;">
       <p><strong>Problem:</strong> High Current Draw</p>
     </div>
     <div style="text-align: center; width: 45%;">
@@ -44,11 +44,11 @@ title: Home
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_tcsensor_problem.jpg" alt="TC Sensors Problem" style="width: 100%;">
+      <img src="assets/img/TC Testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
       <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
     </div>
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_tcsensor_solution.jpg" alt="TC Sensors Solution" style="width: 100%;">
+      <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution" style="width: 100%;">
       <p><strong>Solution:</strong> RTD Sensors</p>
     </div>
   </div>
@@ -58,7 +58,7 @@ title: Home
       <p><strong>Problem:</strong> Uneven Temperature Distribution</p>
     </div>
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/field_temp_distribution_solution.jpg" alt="Temp Distribution Solution" style="width: 100%;">
+      <img src="assets/img/PVC System.jpg" alt="Temp Distribution Solution" style="width: 100%;">
       <p><strong>Solution:</strong> Redesigned PVC System</p>
     </div>
   </div>
