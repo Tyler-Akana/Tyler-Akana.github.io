@@ -44,7 +44,7 @@ title: Home
   </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
-      <img src="assets/img/TC Testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
+      <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
       <p><strong>Problem:</strong> Inaccurate TC Sensors</p>
     </div>
     <div style="text-align: center; width: 45%;">
