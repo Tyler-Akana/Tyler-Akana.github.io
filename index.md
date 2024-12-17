@@ -45,11 +45,11 @@ title: Home
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem" style="width: 100%;">
-      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observec that TC polarity was reversed, and heat applied to the breakout board would cause a temperature increase, adding to the innacuracy. </p>
+      <p><strong>Problem:</strong> Thermocouple sensors in field reported erroneous readings. After testing several factors while sensors are submerged in an ice bath (0C) it was observed that TC polarity was reversed, and heat applied to the breakout board would cause a temperature increase, adding to the innacuracy. </p>
     </div>
     <div style="text-align: center; width: 45%;">
       <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution" style="width: 100%;">
-      <p><strong>Solution:</strong> RTD Sensors preformed more accuratley than TC sensors within our temperature range. Newly accurate system will now allow for smother control of voltage in control algorithm. </p>
+      <p><strong>Solution:</strong> RTD Sensors preformed more accurately than TC sensors within our temperature range. Newly accurate system will now allow for smother control of voltage in control algorithm. </p>
     </div>
   </div>
   <div style="display: flex; justify-content: space-between;">
