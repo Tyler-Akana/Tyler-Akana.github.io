@@ -123,6 +123,17 @@ W990 Hood Struts are sized inaccurately, not providing enough assistance for ini
   </div>
 </div>
 
+### **Test Rig**
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <video width="80%" controls>
+    <source src="assets/img/Kenworth/TestRig.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>Rig built to mimic position of strut mounting points for testing outside of Kenworth</p>
+</div>
+
+
 ---
 
 ## **Certifications**
