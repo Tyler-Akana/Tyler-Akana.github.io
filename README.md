@@ -2,22 +2,22 @@
 
 #### Skills: CAD, HVAC, Pneumatics, Prototyping Design, GD&T
 
-### Education
+## Education
 -B.S., Mehcanical Engineering | Washington State University (_December 2024_)
 
-### Work Experience
+## Work Experience
 **Undergraduate Researcher @ Washington State University**
 -Developed and optimized a control box for replication and study of climate change induced heat waves on potato growth
 
 
-### School Projects
+## School Projects
 **Kenworth-PACCAR Senior Design Project**
-#### Contributions
+### Contributions
 -Controls System Design
 
 -Pneumatic System Design
 
-### Personal Projects
+## Personal Projects
 
 
-### Certifications
+## Certifications
