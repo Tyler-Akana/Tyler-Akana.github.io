@@ -82,7 +82,6 @@ title: Home
   </div>
 </div>
 
----
 ### Research Outcomes:
 
 <div style="display: flex; flex-direction: column;">
@@ -96,6 +95,7 @@ title: Home
       <p><strong>Solution:</strong> New power supply supports higher continuous and peak current draw.</p>
     </div>
   </div>
+</div>
 
 ---
 
