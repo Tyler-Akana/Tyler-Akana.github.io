@@ -9,7 +9,7 @@ title: Home
 ---
 
 ## **Education**
-- **BS, Mechanical Engineering** | *Washington State University* (December 2024)
+### **BS, Mechanical Engineering** | *Washington State University* (December 2024)
 
 ---
 
