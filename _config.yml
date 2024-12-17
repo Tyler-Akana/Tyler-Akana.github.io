@@ -3,5 +3,7 @@ description: "Mechanical Engineering Portfolio | Projects and Experience"
 theme: jekyll-theme-minimal
 show_downloads: false
 logo: /assets/img/Headshot.jpg  # Optional Logo
+linkedin: "https://www.linkedin.com/in/tyler-akana" # Replace with your LinkedIn URL
+resume: "assets/resume.pdf" # Replace with your resume file path
 github:
   is_project_page: true
