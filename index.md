@@ -41,6 +41,11 @@ title: Home
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/img/Controls Box.jpg" alt="Final Design" style="width: 80%;">
+  <p>Controls System (not including servo on variac for voltage control)</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/img/early deployment.jpg" alt="Final Design" style="width: 80%;">
   <p>Final Design</p>
 </div>
