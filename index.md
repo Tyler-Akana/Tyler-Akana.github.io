@@ -6,6 +6,22 @@ title: Home
 # **Tyler's Portfolio**
 #### **Prominent Skills**: CAD, HVAC, Pneumatics, Prototyping Design, Data Analysis, Technical Communication  
 
+<style>
+  body {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .wide-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+</style>
+
 ---
 
 ## **Education**
