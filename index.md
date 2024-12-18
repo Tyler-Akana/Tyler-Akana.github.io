@@ -143,11 +143,17 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
   <p>Components adapting cylinder and load cell to strut mounts.</p>
 </div>
 ### **Electrical Housing**
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="assets/img/Kenworth/systemhousing.gif" alt="System Housing">
-  <p>Houses electrical components and provides holes for cable management and ziptie strain releif on cable connections.</p>
-</div>
 
+<div class="content-row">
+    <div class="content-column">
+      <img src="assets/img/Kenworth/systemhousing.gif" alt="system housing cad">
+      <p>Houses electrical components and provides holes for cable management and ziptie strain releif on cable connections.</p>
+    </div>
+    <div class="content-column">
+      <img src="assets/img/Kenworth/Controls system.jpg" alt="picture of system housing">
+      <p><strong>Solution:</strong>Picture of components mounted in compact housing.</p>
+    </div>
+  </div>
 
 ### **Test Rig**
 <div style="text-align: center; margin-bottom: 20px;">
