@@ -121,13 +121,13 @@ title: Home
 W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions, which are reported to be inaccurate. 
 
 #### **Solution**  
-Utilize pneumatic cylinders to open and close the hood, simultaneously measuring force at strut locations using load cells attached to the cylinders. This solution provides an experimental force curve that can be used to properly size a spring pack for a W990 mechanical strut or replace the opening mechanism entirely.
+Utilize two pneumatic cylinders to open and close the hood in place of the mechanical struts, simultaneously measuring force at strut locations using load cells attached to the cylinders. This solution outputs force and hood angle data from the arduino system to a python program for post processing, and graphical representation. The processed data is stored in a .csv file and can be used to correctly size a W990 strut. Alternativley the pneumatic cylinders can replace the struts themselves eliminating difficultly with opening and closing the hood entirley.
 
 #### **System Diagrams**
 <div class="content-row">
   <div class="content-column">
     <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic">
-    <p><strong>Controls System:</strong> Handles pneumatics and load cell data processing.</p>
+    <p><strong>Controls System:</strong> Controls solenoids on main valve using relays, and gathers data from load cells.</p>
     <p><strong>Main Components:</strong> Futek load cells, load cell amplifiers, Arduino Uno, Adafruit MPU 6050, 2CH relay, and valve solenoids.</p>
   </div>
   <div class="content-column">
