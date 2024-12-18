@@ -110,7 +110,7 @@ title: Home
   </div>
    <div style="text-align: center; margin-bottom: 20px;">
     <img src="assets/img/Study Presentation.jpg" alt="Presentation Picture">
-    <p>Potato field day presentation at WSU Othello research unit (2024)</p>
+    <p>Potato field day presentation at WSU Othello research unit(2024)</p>
   </div>
 </div>
 
@@ -151,7 +151,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
     </div>
     <div class="content-column">
       <img src="assets/img/Kenworth/Controls system.jpg" alt="picture of system housing">
-      <p><strong>Solution:</strong>Picture of components mounted in compact housing.</p>
+      <p>Picture of components mounted in compact housing.</p>
     </div>
   </div>
 
