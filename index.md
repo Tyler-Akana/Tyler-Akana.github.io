@@ -177,7 +177,7 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
 ---
 
 ## **Certifications**
-- Engineer In Training (EIT)
+### Engineer In Training (EIT)
   <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/EIT.jpg" alt="EIT license">
   <p>*Removed adress from certificate*</p>
