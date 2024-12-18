@@ -140,7 +140,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
 ### **Cylinder Components**
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/img/Kenworth/ActuatorAssembly.JPG" alt="Actuator Assembly">
-  <p>Components adapting cylinder and load cell to strut mounts.</p>
+  <p>Yellow parts designed in CAD for connecting the load cell, cylinder, and swivel joints together.</p>
 </div>
 ### **Electrical Housing**
 
