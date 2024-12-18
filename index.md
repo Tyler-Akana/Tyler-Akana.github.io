@@ -177,11 +177,14 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
 ---
 
 ## **Certifications**
-- [List any certifications here]
+- Engineer In Training (EIT)
+  <div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/EIT.jpg" alt="EIT license">
+  <p>*Removed adress from certificate*</p>
+</div>
 
 ---
 
-[View My GitHub Projects](https://github.com/yourusername)
 
 
 
