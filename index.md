@@ -147,7 +147,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
 <div class="content-row">
     <div class="content-column">
       <img src="assets/img/Kenworth/systemhousing.gif" alt="system housing cad">
-      <p>Houses electrical components and provides holes for cable management and ziptie strain releif on cable connections.</p>
+      <p>Houses electrical components and provides holes for cable management and ziptie strain relief on cable connections.</p>
     </div>
     <div class="content-column">
       <img src="assets/img/Kenworth/Controls system.jpg" alt="picture of system housing">
