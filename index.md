@@ -124,10 +124,12 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
   <div class="content-column">
     <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic">
     <p><strong>Controls System:</strong> Handles pneumatics and load cell data processing.</p>
+    <p><srong>Main Components:</srong> Futek load cells, load cell amplifiers, Arduino Uno, Adafruit MPU 6050, 2CH relay, and valve solenoids.</p>
   </div>
   <div class="content-column">
     <img src="assets/img/Kenworth/Pneumatic.png" alt="Pneumatic Schematic">
     <p><strong>Pneumatic System:</strong> Configures airflow to dual-action cylinders.</p>
+    <p><srong>Main Components:</srong> 5/3 way closed center valve, flow restrictors, dual action cylinders, and exhaust flow restrictors.</p>
   </div>
 </div>
 
