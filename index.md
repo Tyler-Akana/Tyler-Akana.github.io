@@ -42,7 +42,7 @@ title: Home
 
 ### **Undergraduate Researcher @ Washington State University** | Feb - Dec 2024
 #### **Project Goal**: 
-  To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
+  To design a set of temperature-controlled open lid boxes for the study of climate change-induced heatwaves on potato growth.
   
 #### **Solution Overview**:
   Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
@@ -114,28 +114,28 @@ title: Home
 
 ## **Kenworth-PACCAR Senior Design Project** | Aug - Dec 2024
 #### **Problem**  
-W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be inaccurate. 
+W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions, which are reported to be inaccurate. 
 
 #### **Solution**  
-Utilize pneumatic cylinders to open and close the hood, simutaniously measuring force at strut locations using load cells attached to the cylinders. This solution provides an experimental force curve that can be used to properly size a spring pack for a W990 mechanical strut, or replace the opening mechanism entirley.
+Utilize pneumatic cylinders to open and close the hood, simultaneously measuring force at strut locations using load cells attached to the cylinders. This solution provides an experimental force curve that can be used to properly size a spring pack for a W990 mechanical strut or replace the opening mechanism entirely.
 
 #### **System Diagrams**
 <div class="content-row">
   <div class="content-column">
     <img src="assets/img/Kenworth/Controls.png" alt="Controls Schematic">
     <p><strong>Controls System:</strong> Handles pneumatics and load cell data processing.</p>
-    <p><srong>Main Components:</srong> Futek load cells, load cell amplifiers, Arduino Uno, Adafruit MPU 6050, 2CH relay, and valve solenoids.</p>
+    <p><strong>Main Components:</strong> Futek load cells, load cell amplifiers, Arduino Uno, Adafruit MPU 6050, 2CH relay, and valve solenoids.</p>
   </div>
   <div class="content-column">
     <img src="assets/img/Kenworth/Pneumatic.png" alt="Pneumatic Schematic">
     <p><strong>Pneumatic System:</strong> Configures airflow to dual-action cylinders.</p>
-    <p><srong>Main Components:</srong> 5/3 way closed center valve, flow restrictors, dual action cylinders, and exhaust flow restrictors.</p>
+    <p><strong>Main Components:</strong> 5/3 way closed-center valve, flow restrictors, dual-action cylinders, and exhaust flow restrictors.</p>
   </div>
 </div>
 
 ### **Cylinder Components**
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="assets/img/Kenworth/ActuatorAssembly.JPG" alt="ActuatorAssembly">
+  <img src="assets/img/Kenworth/ActuatorAssembly.JPG" alt="Actuator Assembly">
   <p>Components adapting cylinder and load cell to strut mounts.</p>
 </div>
 
@@ -182,11 +182,9 @@ Utilize pneumatic cylinders to open and close the hood, simutaniously measuring 
 ### Engineer In Training (EIT)
   <div style="text-align: center; margin-bottom: 20px;">
   <img src="assets/EIT.jpg" alt="EIT license">
-  <p>*Removed adress from certificate*</p>
+  <p>*Address removed from certificate*</p>
 </div>
 
 ---
-
-
 
 
