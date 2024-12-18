@@ -138,6 +138,12 @@ Utilize pneumatic cylinders to open and close the hood, simultaneously measuring
   <img src="assets/img/Kenworth/ActuatorAssembly.JPG" alt="Actuator Assembly">
   <p>Components adapting cylinder and load cell to strut mounts.</p>
 </div>
+### **Electrical Housing**
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="assets/img/Kenworth/systemhousing.gif" alt="System Housing">
+  <p>Houses electrical components and provides holes for cable management and ziptie strain releif on cable connections.</p>
+</div>
+
 
 ### **Test Rig**
 <div style="text-align: center; margin-bottom: 20px;">
