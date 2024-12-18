@@ -117,7 +117,7 @@ title: Home
 W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be inaccurate. 
 
 #### **Solution**  
-Utilize pneumatic cylinders to push the hood open and closed, and measure force at strut locations using load cells in line with the cylinder. This solution provides an experimental value that can be used to size a spring pack for a better-sized W990 mechanical strut.
+Utilize pneumatic cylinders to open and close the hood, simutaniously measuring force at strut locations using load cells attached to the cylinders. This solution provides an experimental force curve that can be used to properly size a spring pack for a W990 mechanical strut, or replace the opening mechanism entirley.
 
 #### **System Diagrams**
 <div class="content-row">
