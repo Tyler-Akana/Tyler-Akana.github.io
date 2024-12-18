@@ -45,7 +45,7 @@ title: Home
   To design a set of temperature-controlled open lid boxes for the study of climate change-induced heatwaves on potato growth.
   
 #### **Solution Overview**:
-  Combined dryer heating elements, centrifugal duct fans, and Arduino-controlled systems to regulate voltage and maintain temperature.
+  Combined dryer heating elements, variacs, centrifugal duct fans, and Arduino-controlled systems to adjust variac voltage to heating elements and maintain temperature.
 
 <div class="wide-content">
   <div style="text-align: center; margin-bottom: 20px;">
@@ -63,6 +63,8 @@ title: Home
 </div>
 
 ### **Field-Deployed Problems & Solutions**
+#### Our final design was deployed in May of 2024 in a field 2hrs out from W.S.U. in Othello, WA. I stayed over a summer to continue development and provide maintenance on the design. 
+#### I focused my efforts on increasing reliability of power delivery and sensor systems, and decreasing variability in temperature distribution. While I focused on those three problems I also provided maintenence and fixes for other problems such as electrical faults, and water ingress. With each problem I faced I was able to respond with a unique solution, off the shelf part, or fix in a timely matter.
 <div class="wide-content">
   <div class="content-row">
     <div class="content-column">
@@ -78,7 +80,7 @@ title: Home
   <div class="content-row">
     <div class="content-column">
       <img src="assets/img/TC testing.jpg" alt="TC Sensors Problem">
-      <p><strong>Problem:</strong> Thermocouples reported erroneous readings due to polarity issues and board heating.</p>
+      <p><strong>Problem:</strong> Thermocouples reported erroneous readings due to polarity issues and thermal effects on breakout board.</p>
     </div>
     <div class="content-column">
       <img src="assets/img/RTD Logger.jpg" alt="TC Sensors Solution">
