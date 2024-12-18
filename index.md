@@ -40,7 +40,7 @@ title: Home
 
 ## **Work Experience**
 
-### **Undergraduate Researcher @ Washington State University**
+### **Undergraduate Researcher @ Washington State University** | Feb - Dec 2024
 #### **Project Goal**: 
   To design a set of temperature-controlled open lid boxes for study of climate change-induced heatwaves on potato growth.
   
@@ -112,7 +112,7 @@ title: Home
 
 ---
 
-## **Kenworth-PACCAR Senior Design Project**
+## **Kenworth-PACCAR Senior Design Project** | Aug - Dec 2024
 #### **Problem**  
 W990 Hood Struts are sized inaccurately, not providing enough assistance for initial hood lift-off. Struts were originally based on simulation solutions which are reported to be inaccurate. 
 
