@@ -109,7 +109,7 @@ title: Home
     <p>Maintained at least 5°C above ambient average temperature; RTD sensors were pending installation.</p>
   </div>
    <div style="text-align: center; margin-bottom: 20px;">
-    <img src="assets/img/Research Project/Study Presentation.jpg" alt="Presentation Picture">
+    <img src="assets/img/Study Presentation.jpg" alt="Presentation Picture">
     <p>Potato field day presentation at WSU Othello research unit (2024)</p>
   </div>
 </div>
