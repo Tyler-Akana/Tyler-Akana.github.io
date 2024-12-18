@@ -161,7 +161,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
     <source src="assets/img/Kenworth/TestRig.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p>Test rig replicating strut mounting positions (sped up 4x).</p>
+  <p>Test rig replicating strut mounting positions, allowing testing without access to a W990 truck (sped up 4x).</p>
 </div>
 
 ### **Final Validation**
