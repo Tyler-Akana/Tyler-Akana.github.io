@@ -108,6 +108,9 @@ title: Home
     <img src="assets/Plots-Data/Research Project/Long term data.JPG" alt="Long term data summary">
     <p>Maintained at least 5°C above ambient average temperature; RTD sensors were pending installation.</p>
   </div>
+   <div style="text-align: center; margin-bottom: 20px;">
+    <img src="assets/Plots-Data/Research Project/Study Presentation.jpg" alt="Presentation Picture">
+    <p>Potato field day presentation at WSU Othello research unit (2024)</p>
 </div>
 
 ---
