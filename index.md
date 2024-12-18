@@ -139,7 +139,7 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
 
 ### **Test Rig**
 <div style="text-align: center; margin-bottom: 20px;">
-  <video width="80%" controls>
+  <video width="80%" controls muted>
     <source src="assets/img/Kenworth/TestRig.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -148,14 +148,14 @@ Utilize pneumatic cylinders to push the hood open and closed, and measure force 
 
 ### **Final Validation**
 <div style="text-align: center; margin-bottom: 20px;">
-  <video width="80%" controls>
+  <video width="80%" controls muted>
     <source src="assets/img/Kenworth/Extension.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p>Hood Extension</p>
 </div>
 <div style="text-align: center; margin-bottom: 20px;">
-  <video width="80%" controls>
+  <video width="80%" controls muted>
     <source src="assets/img/Kenworth/Retraction.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
