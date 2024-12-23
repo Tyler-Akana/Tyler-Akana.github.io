@@ -42,7 +42,7 @@ title: Home
 
 ### **Undergraduate Researcher @ Washington State University** | Feb - Dec 2024
 #### **Project Goal**: 
-  To design a set of temperature-controlled open lid boxes for the study of climate change-induced heatwaves on potato growth.
+  To design a set of temperature-controlled open lid boxes for the study of climate change-induced heatwaves on potato growth maintiaing at least 5C above ambient.
   
 #### **Solution Overview**:
   Combined dryer heating elements, variacs, centrifugal duct fans, and Arduino-controlled systems to adjust variac voltage to heating elements and maintain temperature.
@@ -164,6 +164,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
     Your browser does not support the video tag.
   </video>
   <p>Test rig replicating strut mounting positions, allowing testing without access to a W990 truck (sped up 4x).</p>
+  <p>System "walks" due to inaccuracy in hole position on wood frame, PSI is heavily reduced due to weaker wood structure used</p>
 </div>
 
 ### **Final Validation**
@@ -173,6 +174,7 @@ Utilize two pneumatic cylinders to open and close the hood in place of the mecha
     Your browser does not support the video tag.
   </video>
   <p>Hood Extension</p>
+  <p>Chassis and hood mounts on truck are positioned symetrically eliminating "walking", system operating at designed 100-120PSI speeding up actuator motion.</p>
 </div>
 <div style="text-align: center; margin-bottom: 20px;">
   <video width="80%" controls muted>
