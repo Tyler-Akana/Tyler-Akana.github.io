@@ -40,7 +40,7 @@ title: Home
 
 ## **Work Experience**
 
-### **Undergraduate Researcher @ Washington State University** | Feb - Dec 2024
+### **Undergraduate Researcher @ Washington State University** | Jan 2024 - Feb 2025
 #### **Project Goal**: 
   To design a set of temperature-controlled open lid boxes for the study of climate change-induced heatwaves on potato growth maintiaing at least 5C above ambient.
   
